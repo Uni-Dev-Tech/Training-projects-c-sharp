@@ -1,0 +1,3 @@
+Position, Date, Day of the Week, Headline, Content
+4, 29.06.2014 12:00:00, Thursday, Party, Celebrate_friend's_birthday
+5, 30.06.2014 14:00:00, Friday, Car, Check the main engine

@@ -1,0 +1,4 @@
+Position, Date, Day of the Week, Headline, Content
+1, 26.06.2014 12:00:00, Monday, Products, Bread_Meat_Milk
+2, 27.06.2014 18:00:00, Tuesday, Work_Project, Fix_mistakes
+3, 28.06.2014 14:00:00, Wednesday, School, Give_a_hand_with_kid's_school_project

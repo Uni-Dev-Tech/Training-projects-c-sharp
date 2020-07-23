@@ -1,0 +1,12 @@
+C:\Users\Кухтя\source\repos\homework5.5\homework5.5\bin\Debug\homework5.5.exe.config
+C:\Users\Кухтя\source\repos\homework5.5\homework5.5\bin\Debug\homework5.5.exe
+C:\Users\Кухтя\source\repos\homework5.5\homework5.5\bin\Debug\homework5.5.pdb
+C:\Users\Кухтя\source\repos\homework5.5\homework5.5\obj\Debug\homework5.5.csprojAssemblyReference.cache
+C:\Users\Кухтя\source\repos\homework5.5\homework5.5\obj\Debug\homework5.5.exe
+C:\Users\Кухтя\source\repos\homework5.5\homework5.5\obj\Debug\homework5.5.pdb
+C:\Users\Кухтя\Desktop\homework5\задание5\homework5.5\bin\Debug\homework5.5.exe.config
+C:\Users\Кухтя\Desktop\homework5\задание5\homework5.5\bin\Debug\homework5.5.exe
+C:\Users\Кухтя\Desktop\homework5\задание5\homework5.5\bin\Debug\homework5.5.pdb
+C:\Users\Кухтя\Desktop\homework5\задание5\homework5.5\obj\Debug\homework5.5.csprojAssemblyReference.cache
+C:\Users\Кухтя\Desktop\homework5\задание5\homework5.5\obj\Debug\homework5.5.exe
+C:\Users\Кухтя\Desktop\homework5\задание5\homework5.5\obj\Debug\homework5.5.pdb

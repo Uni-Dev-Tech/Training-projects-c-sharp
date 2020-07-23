@@ -1,0 +1,6 @@
+C:\Users\Кухтя\source\repos\PlanForEveryday1.1\PlanForEveryday1.1\bin\Debug\PlanForEveryday1.1.exe.config
+C:\Users\Кухтя\source\repos\PlanForEveryday1.1\PlanForEveryday1.1\bin\Debug\PlanForEveryday1.1.exe
+C:\Users\Кухтя\source\repos\PlanForEveryday1.1\PlanForEveryday1.1\bin\Debug\PlanForEveryday1.1.pdb
+C:\Users\Кухтя\source\repos\PlanForEveryday1.1\PlanForEveryday1.1\obj\Debug\PlanForEveryday1.1.csprojAssemblyReference.cache
+C:\Users\Кухтя\source\repos\PlanForEveryday1.1\PlanForEveryday1.1\obj\Debug\PlanForEveryday1.1.exe
+C:\Users\Кухтя\source\repos\PlanForEveryday1.1\PlanForEveryday1.1\obj\Debug\PlanForEveryday1.1.pdb
